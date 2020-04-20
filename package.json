@@ -1,0 +1,22 @@
+{
+  "name": "agentsweep",
+  "version": "0.0.2",
+  "description": "This is a browser scan script",
+  "main": "agentsweep.js",
+  "keywords": [
+    "Browser"
+  ],
+  "author": "Xie Zheyuan",
+  "license": "GPL-3.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xiezheyuan/agentsweep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiezheyuan/agentsweep/issues"
+  },
+  "homepage": "https://xiezheyuan.github.io/agentsweep/"
+}
